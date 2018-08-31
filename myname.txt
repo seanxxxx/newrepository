@@ -3,3 +3,5 @@ hello,my name is sean xu~
 all work and no play make jack a dull boy
 
 second change
+
+remote to origin github.com/seanxxxx
